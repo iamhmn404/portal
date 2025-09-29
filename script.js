@@ -1,7 +1,7 @@
 /* I AM HUMAN — Portal sequence */
 (() => {
   // ====== CONFIG ======
-  const MASK_URL = "new_mask.jpg"; // Path relative to assets/js/
+  const MASK_URL = "new_mask1.jpg"; // Path relative to assets/js/
   const USB_URL  = "usb_source.jpg";      // Path relative to assets/js/
 
   const LOOP = 25000;
